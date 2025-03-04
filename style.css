@@ -649,23 +649,8 @@ nav h2:nth-last-child(2) {
     }
 }
 #footer{
-    margin-top: 100px;
     height: 60%;
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: relative;
-    
-
-}
-
-#footer h1{ 
-    
-    
-     font-size: 4vw;
-     margin-right: 100px;
-     margin-left: 100px;
 }
 .intro {
     height: 100%;
